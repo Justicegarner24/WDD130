@@ -8,6 +8,10 @@ nav a {
     display: flex;
     justify-content: space-around;
 }
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
     grid-column: 2/3;
