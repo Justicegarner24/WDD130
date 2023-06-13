@@ -194,6 +194,13 @@ footer p:hover {
     opacity: .6;
     transform: scale(1.1);
 }
+<!-- rivers subpage css -->
+
+
+
+
+
+<!-- media queries -->
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
