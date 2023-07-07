@@ -51,7 +51,7 @@ footer {
 footer .social img {
     padding: 15px;
 }
-.home-title {
+.home-title, h3{
   color: #8390FA;
   font-family: "Bruno Ace cursive";
   font-size: 3em;
@@ -98,6 +98,8 @@ footer a:hover {
   font-family: Carlito, sans-serif, Lato, Helvetica, sans-serif;
   font-size: 2em;
   color: #8390fa;
+  text-align: center;
+  padding: 10px;
 }
 .yarn-basket-img {
   border: 15px solid #FAC748;
@@ -113,6 +115,8 @@ footer a:hover {
   font-family: Carlito, sans-serif, Lato, Helvetica, sans-serif;
   font-size: 2em;
   color: #8390fa;
+  text-align: center;
+  padding: 10px;
 }
 footer p {
     font-size: 2em;
