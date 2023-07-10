@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Carlito:ital,wght@1,700&display=swap');
 
+
+#content {
+  max-width: 1600px;
+  margin: 0;
+  margin: 0 auto;
+}
+
 nav a {
   text-align: center;
   color: #8390FA;
@@ -19,7 +26,7 @@ nav {
 body {
   max-width: 1600px;
   background-color: #8390FA; 
-  font-family: Carlito, sans-serif, Lato, Helvetica, sans-serif;
+  font-family: "Carlito", sans-serif, Lato, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
   font-size: 22px;
