@@ -347,20 +347,35 @@ nav a {
   margin-left: 50px;
   margin-top: 30px;
 }
-.book:hover {
-  color: #FAC748;
-}
-.book {
-  background-color: #07e271;
+.buy {
+  background-color: #f88dad;
   text-align: center;
-  margin-left: 58%;
-  border: 10px solid #f88dad;
-  padding: 30px;
-  margin-top: 50px;
-  border-radius: 100%;
+  margin-left: 80%;
+  border: 5px solid #000;
+  padding: 15px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  border-radius: 50px;
   width: 100PX;
+  text-decoration: none;
+  color: #000;
 }
-
+.buya:hover {
+  color: #07e271;
+}
+/*.buy a {
+  text-decoration: none;
+  color: #000;
+}
+.buy a:hover {
+  color: #07e271;
+}
+.buy {
+  padding: 15px;
+  background: #f88dad;
+  border: 5px solid #000;
+  border-radius: 50px;
+*/
 .person-crocheting {
   border: 15px solid #FAC748;
   width: 32%;
@@ -479,7 +494,7 @@ form {
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        color: #8390FA;
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
