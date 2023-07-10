@@ -360,22 +360,9 @@ nav a {
   text-decoration: none;
   color: #000;
 }
-.buya:hover {
+.buy:hover {
   color: #07e271;
 }
-/*.buy a {
-  text-decoration: none;
-  color: #000;
-}
-.buy a:hover {
-  color: #07e271;
-}
-.buy {
-  padding: 15px;
-  background: #f88dad;
-  border: 5px solid #000;
-  border-radius: 50px;
-*/
 .person-crocheting {
   border: 15px solid #FAC748;
   width: 32%;
